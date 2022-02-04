@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="WhatsApp_Imag" size="15.000000 9.604095" />
+    <ImageTarget name="kutuQRKod" size="50.000000 50.000000" />
+    <ImageTarget name="ekranQRKod" size="50.000000 50.000000" />
+    <ImageTarget name="daysofttt_scaled" size="50.000000 25.976562" />
+  </Tracking>
+</QCARConfig>
